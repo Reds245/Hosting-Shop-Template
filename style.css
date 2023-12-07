@@ -351,6 +351,7 @@ footer {
     .about .row .about-img img {
         object-fit: cover;
         object-position: center;
+        width: 400px;
     }
     .about .row .content h3 {
         margin-top: 2rem;
@@ -433,5 +434,11 @@ footer {
     html {
         font-size: 75%;
     }
-
+    .feature .row p {
+        padding: 1rem 1rem;
+        font-size: 1.5rem;
+    }
+    .contact {
+        padding: 0 2rem;
+    }
 }
