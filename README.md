@@ -1,1 +1,1 @@
-live website : https://reds245.github.io/Hosting-Shop-Template/
+live website : https://hosting-shop-template.reds8899.repl.co/
